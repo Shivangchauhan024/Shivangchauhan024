@@ -24,7 +24,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="mailto:riyarana.rohtak@gmail.com">
+      <a href="mailto:chauhanshivang024@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
       </a>
     </td>
