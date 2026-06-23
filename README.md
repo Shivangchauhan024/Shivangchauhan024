@@ -1,7 +1,7 @@
 # ShivangChauhan<div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivang%20Chauhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20B.Tech%20CSE%20%40%20SPSU%20Udaipur&descSize=16&descAlignY=55&descColor=a5b4fc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivang%20Chauhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20B.Tech%20ECE%20%40%20AKGEC%20Ghaziabad&descSize=16&descAlignY=55&descColor=a5b4fc"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -47,9 +47,9 @@
 
 > _"I don't just follow tutorials — I build real things, break them, and figure out why."_
 
-- 🎓 Pursuing **B.Tech in Computer Science** at **SPSU, Udaipur**
+- 🎓 Pursuing **B.Tech in Electronics and communication engineering** at **AKGEC, GHAZIABAD**
 - 🎨 **Frontend-focused** developer — I turn ideas into clean, responsive, and accessible UIs
-- ⚡ Building with **React**, **Tailwind CSS**, **JavaScript**, and **C++** as my go-to stack
+- ⚡ Building with **React**, **Tailwind CSS**, and **C++** as my go-to stack
 - 🗄️ Comfortable connecting frontends to data with **MongoDB** & **MySQL**
 - ☁️ Familiar with **Git workflows**, **Linux**, and deploying on **Azure**
 - 🚀 Currently exploring: **full-stack patterns**, **system design fundamentals**, and **open source contribution**
@@ -116,7 +116,7 @@
 
 I'm always open to interesting conversations, collaboration, and new opportunities.
 
-**Reach me at:** [riyarana.rohtak@gmail.com](mailto:riyarana.rohtak@gmail.com) · [LinkedIn](https://www.linkedin.com/in/puneet-dhankar-097206288/) · [Portfolio](https://your-website.com)
+**Reach me at:** [chauhanshivang024@gmail.com](mailto:chauhanshivang024@gmail.com) · [LinkedIn](https://www.linkedin.com/in/puneet-dhankar-097206288/) · [Portfolio](https://your-website.com)
 
 <br/>
 
