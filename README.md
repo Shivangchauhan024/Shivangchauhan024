@@ -18,6 +18,10 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+<a href="https://www.linkedin.com/in/shivang-chauhan-94b320389/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 <a href="mailto:chauhanshivang024@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -26,25 +30,27 @@
 
 ---
 
+<!-- ==================== ABOUT ME ==================== -->
+
 ## 👋 About Me
 
 Hi! I'm **Shivang Chauhan**, an Electronics and Communication Engineering student at **Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad**.
 
-I'm interested in understanding how electronic systems work, from programming and logical problem-solving to digital hardware design.
+I'm interested in digital electronics, hardware design, and exploring the field of VLSI. I enjoy learning new concepts, solving problems, and applying my knowledge through practical implementations.
 
-I have completed a **40-hour training program in Problem Solving Using C++** and am currently learning **Verilog HDL** while exploring the field of **VLSI (Very Large Scale Integration)**.
-
-- 🎓 Pursuing B.Tech in Electronics and Communication Engineering.
-- 💻 Learned C++ programming.
-- 🧠 Completed 40-hour training in Problem Solving Using C++.
-- 🔌 Learning Verilog HDL and practicing digital circuit design.
-- ⚡ Interested in Digital Electronics and VLSI.
-- 🧪 Practicing hardware modeling, testbenches, and simulation.
-- 🚀 Working toward building a strong foundation in digital design.
+* 🎓 Pursuing B.Tech in Electronics and Communication Engineering.
+* 💻 Learned C++ programming.
+* 🧠 Completed a 40-hour training program in Problem Solving Using C++.
+* 🔌 Currently learning Verilog HDL.
+* ⚡ Interested in Digital Design and VLSI.
+* 🧪 Practicing hardware modeling, testbenches, and simulation.
+* 🚀 Focused on strengthening my technical fundamentals.
 
 > "Learn the fundamentals, build practical projects, and improve with every iteration."
 
 ---
+
+<!-- ==================== SKILLS ==================== -->
 
 ## 🛠️ Skills & Technologies
 
@@ -58,7 +64,7 @@ I have completed a **40-hour training program in Problem Solving Using C++** and
 
 <img src="https://img.shields.io/badge/Verilog%20HDL-Learning-5C6BC0?style=for-the-badge" alt="Verilog HDL"/>
 
-### ⚡ Technical Interests
+### ⚡ Areas of Interest
 
 <img src="https://img.shields.io/badge/Digital%20Electronics-Exploring-16A085?style=for-the-badge" alt="Digital Electronics"/>
 
@@ -70,72 +76,55 @@ I have completed a **40-hour training program in Problem Solving Using C++** and
 
 ---
 
+<!-- ==================== TRAINING ==================== -->
+
 ## 🏆 Training & Achievements
 
 ### 💻 Problem Solving Using C++
 
-- Completed a **40-hour training program in Problem Solving Using C++**.
-- Developed programming fundamentals and logical problem-solving skills.
-- Practiced structured programming and analytical thinking.
-
-### 🔌 Verilog HDL
-
-- Practicing Verilog modules, ports, and hardware modeling.
-- Implementing basic digital circuits.
-- Writing testbenches and verifying circuit behavior through simulation.
+* Completed a **40-hour training program in Problem Solving Using C++**.
+* Developed programming fundamentals and logical problem-solving skills.
+* Practiced structured programming and analytical thinking.
 
 ---
 
-## 📌 Featured Projects
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Shivangchauhan024/Verilog-HDL-Learning">
+<img src="https://img.shields.io/badge/Verilog%20HDL-Digital%20Design-818CF8?style=for-the-badge&logo=github&logoColor=white" alt="Verilog HDL"/>
+</a>
 
 ### ⚡ Verilog HDL — Digital Design & Simulation
 
-A collection of digital circuit implementations using Verilog HDL, focusing on digital logic design, hardware modeling, testbench development, and simulation. This repository documents my hands-on learning as an Electronics and Communication Engineering student exploring VLSI.
+A collection of digital design implementations using Verilog HDL, exploring hardware modeling, testbench development, and simulation.
 
-**🔹 Digital Circuits Implemented**
+<br/>
 
-- Half Adder & Full Adder
-- 2:1 MUX & 4:1 MUX
-- 1:2 DEMUX & 1:4 DEMUX
-- 4-to-2 Encoder
-- Basic Digital Logic Gates
+<a href="https://github.com/Shivangchauhan024/Verilog-HDL-Learning">
+<img src="https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repository"/>
+</a>
 
-**🔹 Verilog Concepts Practiced**
-
-- Structural Modeling
-- Dataflow Modeling using `assign`
-- Behavioral Modeling using `always`
-- Verilog Modules, Inputs & Outputs
-- Basic Usage of `wire` and `reg`
-
-**🔹 Testing & Simulation**
-
-- Testbench Development
-- `$display`, `$monitor` & `$finish`
-- Simulation and Waveform Analysis
-
-**🔹 Currently Learning**
-
-- Vectors and Bit Width
-- Vector Operators
-- Binary, Decimal & Hexadecimal
-- Signed vs. Unsigned Values
-
-**Technologies:** Verilog HDL · Digital Logic Design · Testbenches · Simulation
-
-🔗 **[Explore Verilog Repository](https://github.com/Shivangchauhan024/Verilog-HDL-Learning)**
+</div>
 
 ---
+
+<!-- ==================== CURRENT LEARNING ==================== -->
 
 ## 🧠 What I'm Learning
 
-- **Verilog HDL:** Strengthening my understanding of hardware description and modeling.
-- **Digital Electronics:** Exploring digital logic and circuit behavior.
-- **Vectors & Operators:** Learning multi-bit signals and vector operations.
-- **Number Systems:** Understanding binary, decimal, and hexadecimal representations.
-- **VLSI Fundamentals:** Exploring digital integrated circuit design.
+* **Verilog HDL:** Hardware description and digital circuit modeling.
+* **Digital Electronics:** Logic design and circuit fundamentals.
+* **Vectors & Operators:** Understanding multi-bit signals and operations.
+* **Number Systems:** Binary, decimal, and hexadecimal representations.
+* **VLSI Fundamentals:** Exploring digital integrated circuit design.
 
 ---
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 
 ## 📊 GitHub Analytics
 
@@ -153,6 +142,8 @@ A collection of digital circuit implementations using Verilog HDL, focusing on d
 
 ---
 
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -163,28 +154,36 @@ A collection of digital circuit implementations using Verilog HDL, focusing on d
 
 ---
 
+<!-- ==================== CAREER INTERESTS ==================== -->
+
 ## 🎯 Career Interests
 
 I'm interested in exploring and learning more about:
 
-- ⚡ VLSI Design
-- 🔌 RTL Design Fundamentals
-- 🧪 Digital Design and Verification
-- 🖥️ FPGA-Based Digital Systems
-- 🔬 Semiconductor Technology
+* ⚡ VLSI Design
+* 🔌 RTL Design Fundamentals
+* 🧪 Digital Design and Verification
+* 🖥️ FPGA-Based Digital Systems
+* 🔬 Semiconductor Technology
 
 My goal is to strengthen my fundamentals, gain hands-on experience, and understand how digital designs are developed and verified.
 
 ---
 
+<!-- ==================== LET'S CONNECT ==================== -->
+
 ## 🤝 Let's Connect
 
-I'm always interested in learning, sharing ideas, and connecting with people passionate about electronics, programming, and digital design.
+I'm always interested in learning, sharing ideas, and connecting with people passionate about electronics, programming, digital design, and VLSI.
 
 <div align="center">
 
 <a href="mailto:chauhanshivang024@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-chauhanshivang024%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivang-chauhan-94b320389/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Shivangchauhan024">
@@ -192,10 +191,6 @@ I'm always interested in learning, sharing ideas, and connecting with people pas
 </a>
 
 <br/><br/>
-
-**LinkedIn:** Add your actual LinkedIn profile URL.
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
