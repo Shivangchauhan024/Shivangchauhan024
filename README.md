@@ -1,125 +1,202 @@
-# ShivangChauhan<div align="center">
-
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivang%20Chauhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20B.Tech%20ECE%20%40%20AKGEC%20Ghaziabad&descSize=16&descAlignY=55&descColor=a5b4fc"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=600&lines=Building+real+products%2C+not+just+tutorials.;Frontend+Dev+%7C+React+%7C+Tailwind+%7C+JS;Learning+by+doing+%E2%80%94+one+project+at+a+time." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social Icons - single row inline -->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/riyaa-rana/">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.hackerrank.com/profile/puneetd2005">
-        <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:chauhanshivang024@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://your-website.com">
-        <img src="https://cdn.simpleicons.org/ghostfolio/FFFFFF" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-<br/>
-<!-- 
-<img src="https://komarev.com/ghpvc/?username=Riya-TheLazyDev&label=Profile+Views&color=6366f1&style=flat" alt="profile views"/> -->
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
-
-## 🧑‍💻 About Me
-
-> _"I don't just follow tutorials — I build real things, break them, and figure out why."_
-
-- 🎓 Pursuing **B.Tech in Electronics and communication engineering** at **AKGEC, GHAZIABAD**
-- 🎨 **Frontend-focused** developer — I turn ideas into clean, responsive, and accessible UIs
-- ⚡ Building with **React**, **Tailwind CSS**, and **C++** as my go-to stack
-- 🗄️ Comfortable connecting frontends to data with **MongoDB** & **MySQL**
-- ☁️ Familiar with **Git workflows**, **Linux**, and deploying on **Azure**
-- 🚀 Currently exploring: **full-stack patterns**, **system design fundamentals**, and **open source contribution**
-- 🤝 Open to: **internships**, **collaborative projects**, and **hackathons**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
-
-## 🛠️ Tech Stack
+<!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,html,css,js,ts,nodejs,express)](https://skillicons.dev)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivang%20Chauhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Student%20%7C%20C%2B%2B%20%7C%20Verilog%20%7C%20VLSI&descSize=17&descAlignY=55&descColor=a5b4fc"/>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,azure,aws)](https://skillicons.dev)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;C%2B%2B+%7C+Problem+Solving;Learning+Verilog+HDL;Exploring+Digital+Design+%26+VLSI" alt="Typing SVG"/>
+</a>
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,postman,npm,linux,figma)](https://skillicons.dev)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Shivangchauhan024&label=PROFILE+VIEWS&color=818cf8&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+<a href="https://github.com/Shivangchauhan024">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:chauhanshivang024@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+---
+
+## 👋 About Me
+
+Hi! I'm **Shivang Chauhan**, an Electronics and Communication Engineering student at **Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad**.
+
+I'm interested in understanding how electronic systems work, from programming and logical problem-solving to digital hardware design.
+
+I have completed a **40-hour training program in Problem Solving Using C++** and am currently learning **Verilog HDL** while exploring the field of **VLSI (Very Large Scale Integration)**.
+
+- 🎓 Pursuing B.Tech in Electronics and Communication Engineering.
+- 💻 Learned C++ programming.
+- 🧠 Completed 40-hour training in Problem Solving Using C++.
+- 🔌 Learning Verilog HDL and practicing digital circuit design.
+- ⚡ Interested in Digital Electronics and VLSI.
+- 🧪 Practicing hardware modeling, testbenches, and simulation.
+- 🚀 Working toward building a strong foundation in digital design.
+
+> "Learn the fundamentals, build practical projects, and improve with every iteration."
+
+---
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+
+### 💻 Programming Language
+
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
+
+### 🔌 Hardware Description Language
+
+<img src="https://img.shields.io/badge/Verilog%20HDL-Learning-5C6BC0?style=for-the-badge" alt="Verilog HDL"/>
+
+### ⚡ Technical Interests
+
+<img src="https://img.shields.io/badge/Digital%20Electronics-Exploring-16A085?style=for-the-badge" alt="Digital Electronics"/>
+
+<img src="https://img.shields.io/badge/VLSI-Interested-8E44AD?style=for-the-badge" alt="VLSI"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-C%2B%2B-E67E22?style=for-the-badge" alt="Problem Solving"/>
+
+</div>
+
+---
+
+## 🏆 Training & Achievements
+
+### 💻 Problem Solving Using C++
+
+- Completed a **40-hour training program in Problem Solving Using C++**.
+- Developed programming fundamentals and logical problem-solving skills.
+- Practiced structured programming and analytical thinking.
+
+### 🔌 Verilog HDL
+
+- Practicing Verilog modules, ports, and hardware modeling.
+- Implementing basic digital circuits.
+- Writing testbenches and verifying circuit behavior through simulation.
+
+---
+
+## 📌 Featured Projects
+
+### ⚡ Verilog HDL — Digital Design & Simulation
+
+A collection of digital circuit implementations using Verilog HDL, focusing on digital logic design, hardware modeling, testbench development, and simulation. This repository documents my hands-on learning as an Electronics and Communication Engineering student exploring VLSI.
+
+**🔹 Digital Circuits Implemented**
+
+- Half Adder & Full Adder
+- 2:1 MUX & 4:1 MUX
+- 1:2 DEMUX & 1:4 DEMUX
+- 4-to-2 Encoder
+- Basic Digital Logic Gates
+
+**🔹 Verilog Concepts Practiced**
+
+- Structural Modeling
+- Dataflow Modeling using `assign`
+- Behavioral Modeling using `always`
+- Verilog Modules, Inputs & Outputs
+- Basic Usage of `wire` and `reg`
+
+**🔹 Testing & Simulation**
+
+- Testbench Development
+- `$display`, `$monitor` & `$finish`
+- Simulation and Waveform Analysis
+
+**🔹 Currently Learning**
+
+- Vectors and Bit Width
+- Vector Operators
+- Binary, Decimal & Hexadecimal
+- Signed vs. Unsigned Values
+
+**Technologies:** Verilog HDL · Digital Logic Design · Testbenches · Simulation
+
+🔗 **[Explore Verilog Repository](https://github.com/Shivangchauhan024/Verilog-HDL-Learning)**
+
+---
+
+## 🧠 What I'm Learning
+
+- **Verilog HDL:** Strengthening my understanding of hardware description and modeling.
+- **Digital Electronics:** Exploring digital logic and circuit behavior.
+- **Vectors & Operators:** Learning multi-bit signals and vector operations.
+- **Number Systems:** Understanding binary, decimal, and hexadecimal representations.
+- **VLSI Fundamentals:** Exploring digital integrated circuit design.
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Shivangchauhan024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8"/>
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivangchauhan024&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivangchauhan024&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8"/>
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivangchauhan024&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shivangchauhan024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivangchauhan024&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivangchauhan024&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8" alt="Top Languages"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+---
 
-## 📌 Featured Projects
-
-> _(Replace with your real project links.)_
-
-| Project | Description | Stack | Link |
-| -------------------- | ---------------------------------- | ------------------------ | --------- |
-| 🔗 **Hostel-Leave-Security-ERP** | Brief one-liner about what it does | React, Tailwind, MongoDB | [Repo](#) |
-| 🔗 **Research-Information-Management-System** | Brief one-liner about what it does | HTML, CSS, JS | [Repo](#) |
-| 🔗 **Project Gamma** | Brief one-liner about what it does | C++, DSA | [Repo](#) |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
-
-## 📫 Let's Connect
+## 📈 Contribution Graph
 
 <div align="center">
 
-I'm always open to interesting conversations, collaboration, and new opportunities.
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivangchauhan024&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&hide_border=true" alt="GitHub Contribution Graph"/>
 
-**Reach me at:** [chauhanshivang024@gmail.com](mailto:chauhanshivang024@gmail.com) · [LinkedIn](https://www.linkedin.com/in/puneet-dhankar-097206288/) · [Portfolio](https://your-website.com)
+</div>
+
+---
+
+## 🎯 Career Interests
+
+I'm interested in exploring and learning more about:
+
+- ⚡ VLSI Design
+- 🔌 RTL Design Fundamentals
+- 🧪 Digital Design and Verification
+- 🖥️ FPGA-Based Digital Systems
+- 🔬 Semiconductor Technology
+
+My goal is to strengthen my fundamentals, gain hands-on experience, and understand how digital designs are developed and verified.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, sharing ideas, and connecting with people passionate about electronics, programming, and digital design.
+
+<div align="center">
+
+<a href="mailto:chauhanshivang024@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/Shivangchauhan024">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**LinkedIn:** Add your actual LinkedIn profile URL.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
